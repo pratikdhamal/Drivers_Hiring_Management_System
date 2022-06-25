@@ -17,9 +17,9 @@ This is a drivers hiring management system project developed using PHP (Hypertex
 
 7. Run the script http://localhost/dhms
 
-Admin Credential
-Username: admin@gmail.com
-Password: Test@123
+  Admin Credential
+  Username: admin@gmail.com
+  Password: Test@123
 
 You can create new account for user and driver.
 
